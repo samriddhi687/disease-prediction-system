@@ -57,6 +57,26 @@ python train.py. This generates: model.pkl and scaler.pkl .
 - Step 3: Run the App
 streamlit run app.py
 
+## Sample input
+Pregnancies: 6
+
+Glucose: 148
+
+Blood Pressure: 72
+
+Skin Thickness: 35
+
+Insulin: 0
+
+BMI: 33.6
+
+Diabetes Pedigree Function: 0.627
+
+Age: 50
+
+## Sample Output
+<img width="702" height="848" alt="Screenshot 2026-03-31 193323" src="https://github.com/user-attachments/assets/2081e6cb-7694-40ad-a981-3aae6b146455" />
+
 ## 📊 Evaluation Metrics
 - Accuracy
 - Precision
